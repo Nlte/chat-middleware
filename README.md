@@ -12,7 +12,8 @@ Launch the Tomcat server
 ```
 $ cd ../../chat-web-service
 $ mvn spring-boot:run
-# website accessible at http://127.0.0.1:8080/
-# login/passwords in auth-service/bin/users.json
 ```
+website accessible at http://127.0.0.1:8080/
+logins/passwords are stored in auth-service/bin/users.json
+
 
